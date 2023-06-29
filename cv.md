@@ -1,7 +1,7 @@
 Alfiya Saitova
 ===
-Junior Frontend Developer
----
+## Junior Frontend Developer
+
 ## Contacts:
 - Phone: +79091642117
 - E-mail: alfiyasaitova2015@gmail.com
@@ -99,14 +99,13 @@ if ( isset($_POST['action1']) && $_POST['action1'] === "Удалить") {
 - Participation in website support projects.
 
 
-|
 **Technical writer**
-**LLC “DevPro”s (Averta Service company)**
+**LLC “DevPro” (Averta Service company)**
 *09/2004 – 04/2007*
--	Content preparation and management, HTML coding;
-- 	Maintaining companies websites;
--	Writing technical documentation for the software;
--	Manual functional testing of the software (Lotus Notes systems and Web applications);
+- Content preparation and management, HTML coding;
+- Maintaining companies websites;
+- Writing technical documentation for the software;
+- Manual functional testing of the software (Lotus Notes systems and Web applications);
 
 
 
