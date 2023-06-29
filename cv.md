@@ -10,7 +10,7 @@ Junior Frontend Developer
 - Address: Gazipaşa, Antalya, Türkiye
 
 ## About Me
-I’m motivated junior web developer with a technical background in programming. I worked on different projects as web-developer, website administrator, technical writer and also assisted software testing. I developed customer web portals and landing pages for small business (examples: ( [stepansviridov.ru](http://stepansviridov.ru/),  [dinar-master.tilda.ws](https://dinar-master.tilda.ws/), [det-massaj.ru](http://det-massaj.ru/)  ). My greatest strengths are my strong learning ability and analytical thinking. I’m keen to establish a career in the web development industry.
+I’m motivated junior web developer with a technical background in programming. I worked on different projects as web-developer, website administrator, technical writer and also assisted software testing. I developed customer web portals and landing pages for small business (examples: [stepansviridov.ru](http://stepansviridov.ru/),  [dinar-master.tilda.ws](https://dinar-master.tilda.ws/), [det-massaj.ru](http://det-massaj.ru/)  ). My greatest strengths are my strong learning ability and analytical thinking. I’m keen to establish a career in the web development industry.
 
 ## Skills
 - HTML
@@ -21,6 +21,8 @@ I’m motivated junior web developer with a technical background in programming.
 - Git, GitHub
 - VS Code
 - PHPStorm
+- PHPMyAdmin
+- CMS: WebAsyst Shop Script, Tilda, Ucoz
 - Photoshop
 
 ## Code Examples
@@ -36,6 +38,15 @@ if ( isset($_POST['action1']) && $_POST['action1'] === "Удалить") {
     }
 ```
 ## Education
+- University: National Research Nuclear University MEPhI (Moscow Engineering Physics Institute). Faculty of Cybernetics. Mathematical engineer.
+- Courses
+   - “Fullstack-development” (Educational center “Professional”)
+   - “Software testing” (Computer Training Center «Specialist»)
+   - “Internet-marketing” (Educational center “Professional”)
+   - “HTML, CSS, Web-design” (Computer Training Center «Specialist»)
+   - “Creating web-sites with Tilda” (Training Center “Mycareer”)
+   - “Adobe Photoshop” (Computer Training Center «Specialist»)
+   - English language courses (Aspect College London)
 
 ## Experience
 
