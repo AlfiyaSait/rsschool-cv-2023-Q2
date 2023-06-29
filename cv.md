@@ -38,18 +38,15 @@ if ( isset($_POST['action1']) && $_POST['action1'] === "Удалить") {
     }
 ```
 ## Education
-- University: National Research Nuclear University MEPhI (Moscow Engineering Physics Institute). Faculty of Cybernetics. Mathematical engineer.
+ **University: National Research Nuclear University MEPhI (Moscow Engineering Physics Institute). Faculty of Cybernetics. Engineer-mathematician.**
 - Courses
-   - “Fullstack-development” (Educational center “Professional”)
-   - “Software testing” (Computer Training Center «Specialist»)
-   - “Internet-marketing” (Educational center “Professional”)
-   - “HTML, CSS, Web-design” (Computer Training Center «Specialist»)
-   - “Creating web-sites with Tilda” (Training Center “Mycareer”)
-   - “Adobe Photoshop” (Computer Training Center «Specialist»)
-   - English language courses (Aspect College London)
-
-## Experience
-
+   **“Fullstack-development”** (Educational center “Professional”)
+   - **“Software testing”** (Computer Training Center «Specialist»)
+   - **“Internet-marketing”** (Educational center “Professional”)
+   - **“HTML, CSS, Web-design”** (Computer Training Center «Specialist»)
+   - **“Creating web-sites with Tilda”** (Training Center “Mycareer”)
+   - **“Adobe Photoshop”** (Computer Training Center «Specialist»)
+   - **English language courses** (Aspect College London)
 ## Languages
 
 ## Certificates
