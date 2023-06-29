@@ -1,6 +1,6 @@
-# Alfiya Saitova
+Alfiya Saitova
 ===
-## Junior Frontend Developer
+Junior Frontend Developer
 ---
 ## Contacts:
 - Phone: +79091642117
