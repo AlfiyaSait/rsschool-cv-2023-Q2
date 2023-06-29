@@ -38,7 +38,8 @@ if ( isset($_POST['action1']) && $_POST['action1'] === "Удалить") {
     }
 ```
 ## Education
- **University: National Research Nuclear University MEPhI (Moscow Engineering Physics Institute). Faculty of Cybernetics. Engineer-mathematician.**
+- **University:** 
+   - National Research Nuclear University MEPhI (Moscow Engineering Physics Institute). Faculty of Cybernetics. Engineer-mathematician.
 - **Courses**
    **“Fullstack-development”** (Educational center “Professional”)
    - **“Software testing”** (Computer Training Center «Specialist»)
@@ -54,3 +55,4 @@ if ( isset($_POST['action1']) && $_POST['action1'] === "Удалить") {
 
 
 ## Certificates
+First Certificate in English - B2 level
