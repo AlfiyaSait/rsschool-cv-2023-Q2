@@ -10,7 +10,7 @@ Junior Frontend Developer
 - Address: Gazipaşa, Antalya, Türkiye
 
 ## About Me
-I’m motivated junior web developer with a technical background in programming. I worked on different projects as web-developer, website administrator, technical writer and also assisted software testing. I developed customer web portals and landing pages for small business (examples: ( [stepansviridov.ru](http://stepansviridov.ru/)],  [dinar-master.tilda.ws](https://dinar-master.tilda.ws/), [det-massaj.ru/](http://det-massaj.ru/)  ). My greatest strengths are my strong learning ability and analytical thinking. I’m keen to establish a career in the web development industry.
+I’m motivated junior web developer with a technical background in programming. I worked on different projects as web-developer, website administrator, technical writer and also assisted software testing. I developed customer web portals and landing pages for small business (examples: ( [stepansviridov.ru](http://stepansviridov.ru/),  [dinar-master.tilda.ws](https://dinar-master.tilda.ws/), [det-massaj.ru](http://det-massaj.ru/)  ). My greatest strengths are my strong learning ability and analytical thinking. I’m keen to establish a career in the web development industry.
 
 ## Skills
 - HTML
@@ -24,7 +24,17 @@ I’m motivated junior web developer with a technical background in programming.
 - Photoshop
 
 ## Code Examples
-
+```
+if ( isset($_POST['action1']) && $_POST['action1'] === "Удалить") {
+        $id = htmlspecialchars(trim($_POST['id']));
+        $query = "DELETE FROM `portraits` WHERE img_id=?";
+        $result = $pdo ->prepare($query);
+        $result -> execute([$id]);
+        $address=$_POST['address'];
+        unlink($address);
+        header('Location:/admin');
+    }
+```
 ## Education
 
 ## Experience
