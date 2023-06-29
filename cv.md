@@ -58,7 +58,7 @@ if ( isset($_POST['action1']) && $_POST['action1'] === "Удалить") {
 - HTML, PHP, JavaScript-coding and creating CSS style sheet;
 - Site testing;
 - Creating a database;
-- Organization of loading into the database and unloading from the database to the page;
+- Organization of loading into the database and unloading from the database to the website page;
 - Adaptation to mobile devices;
 - Domain registration;
 - Placement on the hosting;
